@@ -4,6 +4,7 @@ bundles/
 PIG/bundles/
 Parse-Dashboard/public/bundles/
 npm-debug.log
+.eslintcache
 
 // vim .swp
 *.swp
