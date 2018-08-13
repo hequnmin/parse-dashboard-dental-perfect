@@ -1,0 +1,18 @@
+{
+  "apps": [{
+      "serverURL":"https://parse-server-dental-perfect.herokuapp.com/dental-perfect",
+      "appId":"dental-perfect",
+      "masterKey":"Dental-Perfect-2018",
+      "appName":"Dental-Perfect",
+      "iconName": "logo.svg",
+      "supportedPushLocales": ["en", "ru", "fr"]
+  }],
+  "iconsFolder": "icons",
+  "users": [{
+    "user":"admin",
+    "pass":"password"
+  }, {
+    "user":"min",
+    "pass":"min"
+  }]
+}
