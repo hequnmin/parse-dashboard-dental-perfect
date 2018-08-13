@@ -1,0 +1,18 @@
+{
+  "apps": [{
+      "serverURL":"http://localhost:1338/dental-perfect",
+      "appId":"dental-perfect",
+      "masterKey":"Dental-Perfect-2018",
+      "appName":"Dental-Perfect",
+      "iconName": "logo.svg",
+      "supportedPushLocales": ["en", "ru", "fr"]
+  }],
+  "iconsFolder": "icons",
+  "users": [{
+    "user":"admin",
+    "pass":"password"
+  }, {
+    "user":"min",
+    "pass":"min"
+  }]
+}
