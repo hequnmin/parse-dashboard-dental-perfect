@@ -6,6 +6,9 @@ ADD . /src
 RUN npm config set registry https://registry.npm.taobao.org
 RUN npm install
 
+EXPOSE 4040
+EXPOSE 4041
+
 # RUN cd /src \
 #  && npm install \
 #  && npm run build \
