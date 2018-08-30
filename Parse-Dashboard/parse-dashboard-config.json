@@ -1,7 +1,6 @@
 {
   "apps": [{
     "serverURL":"https://parse-server-dental-perfect.herokuapp.com/dental-perfect",
-//    "serverURL":"http://localhost:1338/dental-perfect",
     "appId":"dental-perfect",
     "masterKey":"Dental-Perfect-2018",
     "appName":"Dental-Perfect",
